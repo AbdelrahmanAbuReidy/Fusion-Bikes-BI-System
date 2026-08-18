@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "BISProject", "BISProject.dwproj", "{6FA41EC5-CF7A-4970-B0DD-8F7F6F8BF82E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA41EC5-CF7A-4970-B0DD-8F7F6F8BF82E}.Development|Default.ActiveCfg = Development
+		{6FA41EC5-CF7A-4970-B0DD-8F7F6F8BF82E}.Development|Default.Build.0 = Development
+		{6FA41EC5-CF7A-4970-B0DD-8F7F6F8BF82E}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65846752-810E-4585-8D06-DED85D607510}
+	EndGlobalSection
+EndGlobal
