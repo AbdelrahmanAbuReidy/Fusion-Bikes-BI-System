@@ -53,4 +53,4 @@ Individual assignment for the Business Intelligence Systems module (BSc (Hons) C
 
 ## Author
 
-**Abdelrahman Zakaria Abu Reidy** — [github.com/AbdelrahmanAbuReidy](https://github.com/AbdelrahmanAbuReidy)
+**Abdelrahman Abu Reidy** — [github.com/AbdelrahmanAbuReidy](https://github.com/AbdelrahmanAbuReidy)
